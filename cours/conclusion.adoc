@@ -1,0 +1,13 @@
+---
+layout: sdz
+---
+= Conclusion
+:page-precedent: /cours/amateur_pro
+:page-sommaire:
+
+Ce tutoriel touche à sa fin. J'espère qu'il vous a plu et qu'il vous sera utile.
+L'autodidaxie est une discipline difficile, mais qui à mon avis vaut le coup ;
+c'est pourquoi j'espère que vous saurez persévérer et aller jusqu'au bout de
+votre apprentissage.
+
+Bon courage pour la suite ! image:./smileys/smile.png[Smile]

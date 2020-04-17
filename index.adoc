@@ -1,0 +1,140 @@
+---
+layout: sdz
+---
+
+= Apprendre à apprendre seul
+:page-suivant: /cours/intro
+:page-sommaire:
+
+
+////
+Types d'admonitions et commentaires
+
+NOTE -> bloc "info" TIP -> bloc "question" CAUTION -> bloc "attention" WARNING
+-> bloc "danger"
+
+Du coup IMPORTANT n'a pas de bloc associé pour le moment
+////
+
+// NOTE : chercher comment inclure des icônes custom (pour les emotes)
+
+// référence :
+// https://web.archive.org/web/20110923234625/http://www.siteduzero.com/tutoriel-3-523498-apprendre-a-developper-en-c.html
+
+// NOTE: Le lien suivant donne une bonne représentation la forme finale de ce PACE :
+// https://web.archive.org/web/20110923234625/http://www.siteduzero.com/tutoriel-3-523498-apprendre-a-developper-en-c.html
+
+*Envie d'apprendre à jouer un instrument ? À cuisiner ?
+À programmer ? À parler une nouvelle langue ? Les possibilités sont infinies !*
+Peut-être que vous voulez commencer un nouveau hobby ? Vous réorienter vers une
+nouvelle profession ?
+
+Cependant, les cours sont trop chers, n'existent pas, ou bien ne vous
+conviennent pas ?
+
+Que vous soyez débutant, amateur ou confirmé, *vous êtes au bon endroit !* image:./smileys/clin.png[Wink]
+
+Ce tutoriel a pour ambition de vous apprendre *l'autodidaxie*, autrement dit *comment apprendre seul*,
+en vous appuyant Internet, auquel vous avez accès puisque vous êtes arrivés ici !
+En effet, il existe des milliers de ressources en ligne qui
+peuvent se substituer à un cours classique dans une école. Malheureusement, trop
+nombreuses sont les personnes qui n'en profitent pas au maximum. Je ne compte
+plus le nombre de personnes motivées qui abandonnent "parce que les cours sont
+trop chers" ou bien "je ne trouve pas de prof", ou même "je ne sais pas par où
+commencer".
+
+Pour ça, j'explore le parcours que pourrait suivre n'importe quel autodidacte, à savoir :
+
+* pourquoi choisir l'autodidaxie
+* quelles méthodes existent
+* quels problèmes peuvent être rencontrés et comment les surmonter
+* en bonus, comment entrer dans le monde professionnel par cette voie
+
+Une fois que vous aurez lu ce tutoriel, vous devrez être capable d'apprendre à peu
+près n'importe quoi tout seul. C'est beau, non ?
+
+Alors c'est parti !
+
+++++
+<hr>
+++++
+
+== À qui est adressé ce tutoriel ?
+
+Idéalement, ce tutoriel s'adresse à tout le monde, indépendament de la compétence
+à apprendre.
+
+TIP: Si je lis ce tuto je saurai vraiment apprendre tout et n'importe quoi ?
+
+J'ai bien dis ça plus haut, mais en réalité ce n'est pas aussi simple que ça.
+D'abord, posez-vous les questions suivantes :
+
+* Est-ce que ce que je veux apprendre est dangereux ?
+* Est-ce que je risque de mettre d'autres personnes en danger ?
+
+Si la réponse à une de ces deux questions est oui, alors allez prendre un cours
+donné par un professionnel au lieu d'essayer par vous-même !
+image:./smileys/pirate.png[Pirate]
+
+Bien évidemment, ces simples questions ne sont pas exemptes d'exceptions.
+Par exemple, cuisiner une viande exotique (requin, chauve-souris, pangolin...)
+peut être "dangereux" : il suffit de mal la préparer pour que celui qui la mange
+devienne malade. Pourtant de très nombreux tutoriels en ligne expliquent
+décemment comment faire ; il n'y a pas forcément besoin de prendre un cours de
+cuisine spécifiquement pour ça !
+
+TIP: Il marche ce cours, même ?
+
+J'ai écrit ce cours en m'appuyant sur ma propre expérience d'autodidacte et sur
+celle d'autres personnes que j'ai interrogées, expériences auxquelles j'ai
+ajouté mes propres réflexions sur ce sujet. Je ne garantis pas qu'il marche pour
+tout le monde é loin de là, tout le monde est différent ! Je suis conscient que
+ce qui a fonctionné pour moi ne fonctionnerait pas pour tout le monde.
+Néanmoins, afin d'atteindre un public aussi large que possible, j'ai essayé de
+mettre des exemples issus de domaines variés.
+
+++++
+<hr>
+++++
+
+== Sommaire du cours
+
+* link:/cours/intro[Introduction]
+** link:/cours/intro#cest-quoi-un-autodidacte[C'est quoi un autodidacte ?]
+** link:/cours/intro#pourquoi-choisir-lautodidaxie[Pourquoi choisir l'autodidaxie ?]
+
+* link:/cours/preparation[Préparations : recherche d'un tutoriel]
+** link:/cours/preparation#par-où-commencer[Par où commencer ?]
+** link:/cours/preparation#comment-trouver-un-tutoriel[Comment trouver un tutoriel ?]
+** link:/cours/preparation#sur-quelles-sources-sappuyer[Sur quelles sources s'appuyer ?]
+** link:/cours/preparation#formats-des-tutoriels[Formats des tutoriels]
+
+* link:/cours/theorie_ou_pratique[Théorie ou pratique ?]
+** link:/cours/theorie_ou_pratique#faut-il-commencer-par-la-théorie-ou-la-pratique[Faut-il commencer par la théorie ou la pratique ?]
+** link:/cours/theorie_ou_pratique#dois-je-membêter-avec-la-théorie[Dois-je m'embêter avec la théorie ?]
+** link:/cours/theorie_ou_pratique#un-bout-de-théorie-important-le-jargon[Un bout de théorie important : le jargon]
+
+* link:/cours/investissement[S'investir dans l'apprentissage]
+** link:/cours/investissement#savoir-utiliser-son-argent[Savoir utiliser son argent]
+** link:/cours/investissement#savoir-utiliser-son-temps[Savoir utiliser son temps]
+
+* link:/cours/difficultes[Se confronter aux difficultés]
+** link:/cours/difficultes#une-méthode-apprendre-en-cassant[Une méthode : apprendre en cassant]
+** link:/cours/difficultes#accepter-la-difficulté-et-léchec[Accepter la difficulté et l'échec]
+
+* link:/cours/pieges[Les pièges]
+** link:/cours/pieges#perte-de-motivation[Perte de motivation]
+** link:/cours/pieges#leffet-dunning-kruger[L'effet Dunning-Kruger]
+** link:/cours/pieges#lisolement[L'isolement]
+
+* link:/cours/amateur_pro[Bonus : De l'amateurisme au professionnalisme]
+
+* link:/cours/conclusion[Conclusion]
+
+++++
+<hr>
+++++
+
+
+NOTE: Ceci est un site statique qui n'est qu'une simple reproduction du _Site du Zéro_.
+Les fonctionnalités telles que l'inscription, la connexion ou les commentaires ne fonctionnent pas.

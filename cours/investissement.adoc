@@ -1,0 +1,119 @@
+---
+layout: sdz
+---
+= S'investir dans l'apprentissage
+:page-precedent: /cours/theorie_ou_pratique
+:page-suivant: /cours/difficultes
+:page-intro: Apprendre quelque chose n'est jamais gratuit. Ici j'aborde deux types d'investissements nécessaires : investir son argent pour se procurer du matériel et investir son propre temps.
+
+== Savoir utiliser son argent
+
+Peut-être que vous avez besoin de vous procurer du matériel, que ce soit pour le consommer
+(cuisine, peinture, artisanat divers et varié) ou pour l'utiliser (outils,
+etc.).
+
+Avant de vous précipiter sur votre plateforme d'achat préférée, réfléchissez sur l'utilité de vos
+achats et en particulier sur la qualité dont vous allez avoir besoin. Même si le
+vendeur est très convaincant, il n'est pas toujours nécessaire de débourser des
+sommes importantes et obtenir des produits de très haute qualité.
+
+TIP: Mais peut-être que je vais me retrouver bloqué parce que je travaille avec
+des produits de mauvaise qualité !
+
+Si vous n'arrivez plus à progresser pour cette raison, alors ou bien c'était
+_vraiment_ de la très mauvaise qualité ou non approprié (par exemple un jouet ne
+remplacera jamais un véritable instrument de musique), ou bien c'est que vous
+avez assez progressé pour ressentir la différence.
+
+Lorsqu'on débute, il est inutile de commencer avec des produits de qualité
+supérieure si on n'est pas capable de ressentir la différence par rapport à un
+produit de plus mauvaise qualité. Par exemple, si vous voulez devenir
+audiophile, dur de faire la différence entre deux casques audio lorsqu'on a
+l'oreille peu entraînée, et ce encore plus lorsqu'on entre dans les hautes
+gammes ! Ou alors, si vous voulez peindre, commencer avec de la peinture de
+haute gamme ne serait que du gâchis, mieux vaut la conserver pour plus tard.
+
+NOTE: Attention, si vous vous fiez à des avis sur Internet avant de réaliser vos
+achats, en particulier sur les communautés spécialisées. Les gens, en
+particulier les connaisseurs voire pseudo-connaisseurs, ont tendance à exagérer
+leur propos parce qu'ils veulent donner une opinion qui se distingue des autres.
+Facile d'être déçu ensuite après réception du produit !
+
+++++
+<hr>
+++++
+
+== Savoir utiliser son temps
+
+++++
+<div style="margin: auto; border: 1px solid black; padding: 20px;
+border-radius: 5px; width: 500px; ">
+++++
+
+====
+[.center.text-center,width=500px]
+.Une petite blague
+image::./learn_coding_in_a_single_night.jpg[Apprendre à coder en une seule nuit ?]
+
+Traduction :
+
+*Question* : Comment apprendre à programmer en une seule nuit ?
+
+*Réponse* : Prends un ordinateur portable et voyage au pôle nord au début de
+l'hiver. Tu auras une nuit de six mois pour apprendre à programmer. Une fois là
+bas, vraiment juste cherche sur Google. Il y a énormément d'excellents tutoriels
+sur le net.
+====
+
+++++
+</div>
+++++
+
+TIP: Je ne comprends pas, j'ai trouvé un super tutoriel ultra détaillé qui
+explique parfaitement pourquoi comment faire quelque chose, et pourtant je n'y
+arrive toujours pas ! image:./smileys/pleure.png[Pleure]
+
+Gardez ceci à l'esprit : le progrès n'est pas immédiat
+
+Ça peut paraître logique, mais général ce n'est pas en quelques jours qu'on
+apprend un nouveau savoir-faire. Il est nécessaire d'investir son propre temps
+pour s'entraîner. Malheureusement, les résultats n'arrivent pas toujours aussi
+vite qu'on l'espère. Arriver à un niveau décent peut prendre quelques jours,
+semaines, mois, voire années !
+
+Par exemple, on voit clairement que les progrès se font à l'échelle de l'année
+sur le https://www.forum-dessine.fr[Forum dessiné] :
+
+[.center.text-center]
+.Exemple d'évolution d'un personnage au cours du temps. Source : https://www.forum-dessine.fr
+image::./evolution_loulubie.png[Évolution d'un personnage]
+
+NOTE: On peut trouver plein d'autres évolutions de personnages
+https://www.forum-dessine.fr/forum/1429[sur des topics comme celui-ci]. Les
+progrès que font certains sont même assez impressionnants...
+
+Cependant, ce n'est pas tout de s'entraîner, il faut s'entraîner _régulièrement_ et
+_intelligemment_. Le temps est une ressource rare et précieuse à utiliser à bon
+escient.
+
+TIP: Je comprends "régulièrement", mais "intelligemment" ?
+
+Il est bien plus productif de ne s'entraîner cinq ou dix minutes par jour, mais
+en étant pleinement concentré plutôt que de s'entraîner une heure tout en étant
+distrait.
+
+Mais ce n'est pas tout ! Il faut aussi _comprendre_ ce qu'on fait, et
+pas juste bêtement copier ce que fait le tutoriel. En effet, bien que la mémoire
+joue un rôle important dans l'apprentissage, être capable de reproduire de
+mémoire n'est pas suffisant pour considérer avoir appris. Il est important
+d'apprendre _activement_, en se posant beaucoup de questions, en particulier
+"pourquoi dois-je faire ça ?". C'est en restant curieux qu'on arrive à construire
+des bases solides.
+
+D'ailleurs, il est aussi important de savoir quand s'exercer que de savoir quand
+_ne pas_ s'exercer. Nous vivons malheureusement dans une culture du travail où ne
+pas travailler est mal vu car considéré comme de la paresse. Pourtant, se reposer
+est crucial pour des raisons de santé et pour éviter par exemple le burnout.
+
+NOTE: La paresse n'est pas qu'un défaut : être paresseux, c'est aussi chercher à
+faire plus en faisant moins.

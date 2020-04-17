@@ -1,0 +1,68 @@
+---
+layout: sdz
+---
+
+= Introduction
+:page-precedent: /
+:page-suivant: /cours/preparation
+:page-intro: En préambule, je présente la définition de l'autodidaxie que j'ai considérée lors de l'écriture de ce cours.
+
+== C'est quoi un autodidacte ?
+
+Le CNRTL (Centre National de Ressources Textuelles et Lexicales) nous donne la
+définition suivante :
+
+``autodidacte (adj et subst.): Personne qui s'est instruite par elle-même, sans maître.``
+
+Cependant, je trouve qu'elle n'est pas assez précise. En effet, que veut dire
+« sans maître » ? Peut-on considérer l'aide d'un ami comme avoir un maître ?
+Est-ce qu'un guide très complet écrit par un expert est un maître ?
+
+TIP: Mais un livre n'est pas un maître puisqu'on n'a pas d'interaction avec lui,
+non ? On ne peut pas poser de question à un livre !
+
+Effectivement, mais on pourrait dire de même d'un cours magistral dans un
+amphithéâtre bondé, et pourtant ce cas là n'est absolument pas considéré comme
+de l'apprentissage autodidacte puisqu'il est là question d'un cours.
+
+Cela dit, je définirais l'autodidaxie de la manière suivante : est autodidacte
+toute personne qui apprend sans être encadrée et s'appuyant principalement sur
+des supports ne faisant pas intervenir directement d'autres personnes.
+
+Par exemple,
+
+* suivre un cours particulier et/ou être supervisé par une autre entité n'est
+_pas_ de l'autodidaxie
+* suivre un tutoriel (texte, vidéo, etc.) constitue de l'autodidaxie puisqu'il
+  n'y a pas de relation directe entre l'élève et le professeur : l'élève est libre
+  de suivre le tutoriel comme bon lui semble. Donc pas de panique, lire ce cours
+  est de l'autodidaxie image:./smileys/clin.png[Wink]
+* poser une question à quelqu'un ou sur un forum n'enlève pas l'aspect autodidacte
+  du moment que ça reste ponctuel (i.e. on ne suit pas un "cours", même fragmenté)
+
+Ainsi, un autodidacte est caractérisé par
+
+* son autonomie : il doit travailler tout seul, personne n'est là pour l'y obliger
+* sa curiosité : c'est à lui de trouver des pistes pour aller plus loin
+* sa liberté : il peut attaquer un sujet par n'importe quel angle, suivre un
+  guide comme bon lui semble et choisit son propre rythme de travail
+
+++++
+<hr>
+++++
+
+== Pourquoi choisir l'autodidaxie ?
+
+Il y a tellement de raisons pour apprendre en autodidacte !
+
+Tout d'abord, c'est un savoir-faire qui est très utile à n'importe quel stade de
+la vie. Tant de choses peuvent être apprises tout seul, sans devoir solliciter
+l'aide d'un professeur.
+
+De plus, on apprend à devenir indépendant et à être flexible. Ainsi, au lieu de
+devoir demander conseil à son professeur, on pourra à la place demander ailleurs.
+
+Enfin, c'est une compétence transférable puisque la démarche est globalement la
+même pour tous les domaines. Peut-être qu'au début, la transférabilité n'est pas
+visible, mais avec l'expérience on trouve naturellement une ou plusieurs méthodes
+qui marchent indépendamemnt du domaine.

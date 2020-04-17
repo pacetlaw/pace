@@ -1,0 +1,138 @@
+---
+layout: sdz
+---
+= Les pièges
+:page-precedent: /cours/difficultes
+:page-suivant: /cours/amateur_pro
+:page-intro: Ça y est, je vous ai normalement donné tous les outils pour bien commencer votre apprentissage autodidacte. Maintenant, il ne reste plus qu'à appliquer ce que j'ai dit et le tour est joué. Cependant, c'est plus facile à dire qu'à faire. Je présente ici quelques pièges qu'on peut rencontrer.
+
+== Perte de motivation
+
+TIP: Je suis coincé, je n'ai plus envie d'apprendre. Que faire ?
+
+Effectivement, d'après mon expérience apprendre se fait par plateaux, c'est-à-dire
+qu'on alterne des phases où on progresse et des phases où on stagne. Quand on
+arrive à progresser, c'est merveilleux, tout va bien et on garde la motivation.
+Par contre, une fois qu'on commence à stagner, la motivation disparaît.
+
+En tant qu'autodidacte, votre pire ennemi est vous-même ! L'autodidaxie n'est
+pas comme l'école, où les élèves sont encadrés. En autodidaxie, *vous* êtes le
+seul moteur de votre apprentissage, et aussi son plus grand frein.
+
+Il est important de rester dans un état d'esprit flexible. Ainsi, il ne faut pas
+s'attendre à tout réussir du premier coup et anticiper les échecs, sinon c'est
+sûr que la motivation disparaîtra.
+
+Une manière de rester motivé est de se fixer un objectif, mais c'est là une épée
+à double tranchant : si on sent qu'on s'en rapproche, tout va bien, mais si on
+pense qu'on stagne voire qu'on s'en éloigne, alors plus rien ne va. C'est pour
+ça que je trouve intéressant de garder des traces de ses progrès : c'est
+toujours encourageant de voir les progrès qu'on a réalisés après un long et dur
+labeur.
+
+TIP: J'ai beau faire ce qui est dit, la motivation ne revient pas.
+
+Dans ce cas-là, ce n'est pas la peine de forcer, au risque d'être définitivement
+dégoûté.
+
+Dans le meilleur des cas, peut-être que la motivation reviendra plus tard, le
+lendemain, la semaine suivante, le mois suivant ou même des années plus tard...
+
+TIP: Et si la motivation ne revient quand même pas ?
+
+Dans ce cas-là, tant pis. Est-ce si grave de vouloir passer à autre chose après
+tout ?
+
+++++
+<hr>
+++++
+
+
+== L'effet Dunning-Kruger
+
+TIP: Mais qu'est-ce que c'est ?
+
+Derrière ce nom mystérieux se cache un concept assez simple. Ceux qui ont peu de
+connaissances dans un domaine ont tendance à surestimer leur compétence réelle
+dans ce domaine. Par conséquent, ces personnes rencontrent deux problèmes
+supplémentaires :
+
+* elles ont du mal à reconnaître les véritables compétences et expertises
+* d'autres personnes elles ont du mal à reconnaître leurs erreurs et leur propre
+* incompétence
+
+[.center.text-center]
+.Courbe de la confiance en fonction du niveau de maîtrise
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2019-06-19_effet_dunning_kruger.png/1024px-2019-06-19_effet_dunning_kruger.png[Courbede l'effet Dunning-Kruger, width=600px]
+
+TIP: Mais c'est bizarre, quand on débute on sait qu'on est mauvais non ?
+
+On pourrait expliquer schématiquement cet effet de la manière suivante : on
+représente les connaissances de quelqu'un dans un certain domaine par un disque.
+Les connaissances déjà acquises sont situées à l'intérieur du disque, tandis que
+l'extérieur du disque est constitué des connaissances non acquises.
+
+La frontière entre le disque et l'extérieur représente alors ce qu'on _sait_
+qu'on ne sait pas. Ainsi, lorsqu'on devient plus compétent, le disque des
+connaissances grandit et le périmètre du disque aussi. Autrement dit, plus on est
+familier avec un domaine, plus connaît les difficultés qui existent dans ce domaine.
+
+[.center.text-center]
+image::./schema_dk.png[Schéma]
+
+C'est cette frontière qui est la source de l'effet Dunning-Kruger : les
+débutants _ne sont pas au courant des difficultés qui les attendent !_ Ce n'est
+qu'en travaillant et en se familiarisant avec un domaine qu'on se peut se rendre
+compte de l'étendue du travail restant à faire.
+
+Malheureusement, tout le monde est susceptible d'être atteint par cet effet.
+
+TIP: Y a-t'il des moyens de surmonter cet effet ?
+
+Oui ! Je pense que la clef est l'état d'esprit qu'il faut avoir pendant
+l'apprentissage : il faut rester *humble*, c'est-à-dire :
+
+* ne pas penser qu'on maîtrise parfaitement un sujet : il y a toujours possibilité moyen de s'améliorer
+* savoir douter de ce qu'on sait. Je ne dis pas non plus qu'il faut devenir un sceptique pur et dur, mais qu'il faut être conscient qu'on peut avoir mal appris ou être partiellement juste accepter les critiques des autres. C'est difficile (ça fait mal à l'ego), mais nécessaire pour progresser.
+
+++++
+<hr>
+++++
+
+== L'isolement
+
+Ça peut paraître contre-intuitif, mais l'autodidaxie n'est pas qu'un travail
+solitaire. En particulier il est important de savoir demander de l'aide et des
+avis. Souvent, vous pourrez trouver une communauté en ligne (forum, chat, etc.)
+prête à répondre à vos questions.
+
+Bloquer sur un problème pendant longtemps est l'un des meilleurs moyens pour
+perdre la motivation. Contre ça, on peut tout simplement demander de l'aide à
+quelqu'un d'autre.
+
+En effet, nous ne fonctionnons et ne réfléchissons pas de la même manière. Solliciter
+l'aide d'autrui permet alors d'avoir un regard différent sur son travail. Par
+exemple, ce n'est jamais une mauvaise idée de se faire relire par quelqu'un d'autre,
+parce que souvent à force de travailler sur un texte, des fautes restent inaperçues,
+alors qu'elles ressortent de manière évidente pour le relecteur.
+
+Et ce n'est pas non plus un drame de ne pas obtenir de
+réponse : le simple fait de parler et d'expliquer son problème suffit parfois
+pour comprendre ce qui ne fonctionne pas.
+
+D'ailleurs,
+https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique[la méthode du
+canard en plastique] s'appuie sur ça. Elle consiste à expliquer son problème à
+un canard en plastique (ou autre objet inanimé), en n'épargnant aucun détail.
+Cela force à méticuleusement refaire le chemin effectué jusqu'à retomber sur la
+partie qui pose problème.
+
+[.center.text-center]
+.Parfois, même parler à un canard en plastique aide
+image::./rubber_duck.jpg[Canard en plastique, width=250px]
+
+Il faut aussi oser quitter le confort de la solitude pour demander des avis sur
+son travail et ainsi devoir se confronter aux réactions et éventuelles critiques
+des autres. Savoir recevoir une critique (constructive) est fondamental : il
+faut être capable de mettre son ego de côté, rester à l'écoute des autres et
+incorporer les suggestions faites.

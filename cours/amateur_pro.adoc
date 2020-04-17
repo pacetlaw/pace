@@ -1,0 +1,37 @@
+---
+layout: sdz
+---
+= Bonus : De l'amateurisme au professionnalisme
+:page-precedent: /cours/pieges
+:page-suivant: /cours/conclusion
+:page-sommaire:
+
+Comment faire si on veut gagner sa vie grâce à un savoir-faire qu'on a appris en
+autodidacte ?
+
+// https://www.atlantico.fr/decryptage/2680703/comment-la-culture-du-diplome-a-la-francaise-s-est-transformee-en-machine-infernale-a-fabriquer-des-chomeurs-yannick-l-horty
+
+Il n'y a pas trente-six mille chemins. En France, la culture du diplôme est
+extrêmement forte. Les recruteurs préfèrent largement les personnes diplômées
+aux personnes non diplômées (quand un diplôme est nécessaire, certaines filières
+n'en nécessitent pas).
+
+TIP: Donc si je veux travailler grâce à ce que j'ai appris, je dois m'exporter à
+l'étranger ?
+
+C'est une possibilité. À la rigueur, si vous avez pu produire un portfolio assez
+important par des projets personnels, vous avez peut-être moyen de vous sortir,
+mais là je ne garantis rien.
+
+L'autre possibilité, c'est d'obtenir un diplôme.
+
+TIP: Je dois retourner à l'école !?? image:./smileys/angry.gif[Angry]
+
+// https://www.1min30.com/formations-e-learning/certification-en-ligne-comment-obtenir-des-diplome-sans-retourner-sur-les-bancs-de-lecole-1287455477
+
+Non ce n'est pas forcément nécessaire ! Il existe des plateformes en ligne
+(souvent des MOOCs) qui proposent des certifications en ligne (_Coursera_,
+_OpenClassrooms_ pour n'en citer que quelques unes). Certes, le cours qu'il
+faudra suivre ressemble à ce qu'on fait à l'école, mais vous pourrez au moins
+progresser à votre propre rythme, et donc valider votre certification quand vous
+le souhaitez.

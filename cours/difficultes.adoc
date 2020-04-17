@@ -1,0 +1,48 @@
+---
+layout: sdz
+---
+
+= Se confronter aux difficultés
+:page-precedent: /cours/investissement
+:page-suivant: /cours/pieges
+:page-intro: Apprendre n'est jamais sans embûche. On rencontre souvent des difficultés qui donnent envie d'abandonner. Faut-il les éviter ? Non, il faut accepter les difficultés et l'échec.
+
+== Une méthode : apprendre en cassant
+
+Une méthode plus extrême m'a été donnée sous le nom de "make a mess, then fix
+it" (traduction : mettre le désordre puis réparer). Ça consiste à _volontairement_ se mettre
+en situation d'extrême difficulté et de se forcer à garder la tête au-dessus de
+l'eau.
+
+Quel est l'avantage de cette méthode ?
+
+Il se trouve que la vie n'est jamais un fleuve tranquille où tout se passe comme
+il le faut, comme les exercices qu'on a travaillés pour apprendre une compétence.
+Pour être plus efficace dans la pratique, et ce dans n'importe quel domaine, il
+faut savoir faire face aux imprévus, et juste savoir ceci constitue une
+compétence à part entière : c'est même le métier de certains de savoir rétablir
+l'ordre dans des situations anormales !
+
+++++
+<hr>
+++++
+
+== Accepter la difficulté et l'échec
+
+Bien que cette méthode paraisse un peu trop brutale, elle s'appuie sur une notion
+importante : pour progresser, il faut accepter de sortir de sa zone de confort
+et volontairement se mettre en difficulté.
+
+[.center.text-center]
+.Par exemple, l'interface de _Blender_ (logiciel de modélisation 3D) peut faire peur. Le premier pas est donc de la surmonter.
+image::blender_interface.png[Interface du logiciel Blender, width=600px]
+
+Par exemple, si vous apprenez à jouer aux échecs et que vous êtes à l'aise face
+à des joueurs de votre niveau, alors jouez contre des joueurs plus forts que vous.
+Vous allez probablement perdre, et selon votre caractère ça peut être
+désagréable, mais par la même occasion vous pourrez apprendre pourquoi ces
+joueurs sont meilleurs que vous.
+
+Ce dernier exemple expose un autre point important : ce n'est pas grave
+d'échouer, car ça fait partie de l'apprentissage, du moment que vous revenez
+sur cet échec et essayez de comprendre _pourquoi_ ça s'est passé de la sorte.

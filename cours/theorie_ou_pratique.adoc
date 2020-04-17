@@ -1,0 +1,119 @@
+---
+layout: sdz
+---
+= Théorie ou pratique ?
+:page-precedent: /cours/preparation
+:page-suivant: /cours/investissement
+:page-intro: Nous savons maintenant comment chercher un tutoriel. Cependant, comment l'utiliser ? Faut-il le lire entièrement et chercher à tout comprendre d'abord, ou bien essayer comme on peut de l'appliquer ?
+
+== Faut-il commencer par la théorie ou la pratique ?
+
+[.text-center.center]
+image::./cartoon_thinking.jpg[Théorie ou pratique ?]
+
+Certains vous dirons de commencer par lire la théorie, d'autres par la pratique.
+Qui a raison ?
+
+Comme pour toute chose, ça dépend de vous. Certains ont besoin de lire toute la
+théorie avant de s'exercer, d'autres apprennent uniquement en pratiquant. C'est
+à vous d'essayer pour trouver ce qui vous convient le mieux.
+
+++++
+<hr>
+++++
+
+== Dois-je m'embêter avec la théorie ?
+
+NOTE: Ici, j'appelle théorie tout ce qui n'est pas directement lié à la
+pratique. Ça peut désigner la science qui se cache derrière un phénomène tout
+comme son histoire.
+
+Supposons que vous voulez composer de la musique et qu'en plus, vous n'avez
+jamais touché à un instrument de musique ou suivi de cours. Comment faire ?
+Cherchons un tutoriel !
+
+++++
+<div class="image_exemple" style="width: 800px; ">
+++++
+
+====
+.Source : https://composer-sa-musique.fr/5-methodes-pour-composer-une-melodie/
+image::./partition.png[Partition]
+====
+
+++++
+</div>
+++++
+
+Oh. On dirait qu'il va falloir apprendre les notations utilisées en musique, et
+même du solfège en général. Pourquoi pas, c'est toujours utile !
+image:./smileys/hihi.png[Hihi]
+
+++++
+<div class="image_exemple" style="width: 914px;">
+++++
+
+====
+.Source : https://www.musiclic.com/solfege.asp
+image::./theorie_musique.png[Solfège]
+====
+
+++++
+</div>
+++++
+
+Hum. image:./smileys/unsure.gif[Unsure]
+
+++++
+<div class="image_exemple" style="width: 1045px; ">
+++++
+
+====
+.Source : https://fr.wikipedia.org/wiki/Gamme_pentatonique
+image::./pentatonique.png[Gamme pentatonique]
+====
+
+++++
+</div>
+++++
+
+Ça a l'air compliqué tout ça image:./smileys/pleure.png[Pleure]
+
+NOTE: Évidemment, J'ai beaucoup exagéré dans cet exemple. La théorie musicale
+n'est _pas_ complètement hors de portée des débutants !
+
+TIP: C'est si compliqué ! Ce ne serait pas juste plus simple de prendre mon
+instrument favori et de jouer au hasard jusqu'à tomber sur quelque chose de
+décent ?
+
+C'est tout à fait possible, oui ! Cependant, je pense que s'intéresser un
+minimum à la théorie ne peut pas faire de mal. Certes, ça fait peur, c'est
+compliqué, ça rappelle l'école, c'est ennuyeuxâ¯; bref, on a plein de
+raisons de vouloir éviter la partie théorique, mais d'un autre côté ça ne sert à
+rien de réinventer la roue ! On peut voir la théorie comme une construction
+réalisés à partir des expériences, réflexions, échecs et succès de nos
+prédécesseurs.
+
+WARNING: Attention à ne pas tomber dans l'autre extrême, qui serait d'uniquement
+s'imprégner de théorie et oublier la pratique. Un équilibre sain entre les deux
+est nécessaire.
+
+++++
+<hr>
+++++
+
+== Un bout de théorie important : le jargon
+
+Le jargon est, à mon avis, l'élément théorique le plus important à connaître. On
+pourrait très bien s'en passer et à la place utiliser son propre langage, mais
+en procédant ainsi on se prive d'une chose essentielle : _pouvoir communiquer
+avec le reste de la communauté_. En ne connaissant pas le langage employé dans
+une discipline, il devient compliqué de communiquer dans les deux sens : on
+n'est pas compris lorsqu'on en parle et on ne comprend pas quand on nous en
+parle. Suivre un tutoriel revient alors à naviguer dans une mer de mots dont on
+essaie de deviner le sens ; pas facile d'avancer dans ce cas-là !
+
+De plus, le jargon est _précis_ (en général). Un simple mot peut cacher un sens
+complexe le distinguant de ses synonymes. Par exemple en cuisine les termes
+"revenir", "blanchir" ou "réduire" sont bien plus précis qu'un simple "faire
+cuire" !

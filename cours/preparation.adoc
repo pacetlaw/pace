@@ -1,0 +1,236 @@
+---
+layout: sdz
+---
+= Préparations : recherche d'un tutoriel
+:page-precedent: /cours/intro
+:page-suivant: /cours/theorie_ou_pratique
+:page-intro: Maintenant qu'on sait ce qu'on attend d'un autodidacte, nous pouvons vraiment commencer le cours, à savoir comment chercher un tutoriel.
+
+== Par où commencer ?
+
+TIP: J'ai très envie d'apprendre un certain truc mais je ne sais pas par quoi
+commencer !
+
+Lorsqu'on apprend en autodidacte, on est libre d'attaquer le sujet par n'importe
+quel angle.
+
+Il est important de procéder de manière logique, c'est-à-dire commencer par un
+projet simple, puis continuer par des projets graduellement de plus en plus
+difficiles. Un piège typique consiste à se fixer un objectif trop difficile,
+être frustré par la difficulté puis abandonner. Ce piège est absolument
+dévastateur et présent dans tous les domaines.
+
+Par exemple :
+
+* si vous voulez faire de l'exercice sérieusement pour rester en forme, prévoir un programme trop long ou compliqué n'a pas d'intérêt si votre corps n'est pas habitué à ce genre d'exercices ; l'important est d'abord de transformer l'exercice en habitude ;
+* si vous voulez apprendre à jouer un instrument de musique, il vaut mieux commencer par des morceaux simples avant de s'entraîner à jouer _le_ morceau qui vous tient à cœur ;
+* si vous voulez créer un jeu vidéo, ça ne sert à rien de commencer par un MMORPG (jeu de rôle en ligne massivement multijoueur). Même si vous avez de bonnes idées pour _révolutionner_ le marché, c'est un projet bien trop complexe pour un débutant. Il vaut mieux commencer par des jeux plus simples (_Snake_, _Tetris_, etc.).
+
+NOTE: D'ailleurs, sachez que les idées en soit n'ont absolument _aucune_ valeur
+marchande. Ce qui compte, c'est le produit final après la réalisation de l'idée.
+
+Cela dit, vous avez le droit d'avoir des objectifs ambitieux. C'est même une
+bonne chose, puisque ça peut être une bonne source de motivation, et croyez-moi,
+vous allez en avoir besoin de la motivation !
+
+TIP: D'accord, je vais rester raisonnable et commencer par quelque chose de
+simple. Cela dit, je ne sais toujours pas par où commencer !
+
+Ce n'est pas bien compliqué : il suffit de trouver un tutoriel et de le suivre.
+
+NOTE: C'est valable pour tous les niveaux : pas tous les tutoriels ciblent des
+débutants, certains abordent des sujets assez complexes.
+
+[.center.text-center]
+.Ici on s'attend à ce qu'on sache déjà dessiner des ombres : ce tuto est moins utile pour les débutants. https://www.instagram.com/p/B6P77rsHyxX/[Source]
+image::./tuto_dessin_sphere.jpg[Dessiner une sphère]
+
+++++
+<hr>
+++++
+
+== Comment trouver un tutoriel ?
+
+Nous sommes au XXI^e^ siècle ; la réponse est simple : _Internet est ton ami_
+(bien entendu, tout autre support du type livre / encyclopédie / manuel reste
+valide si disponible sous la main). Mais le souci d'Internet, c'est que c'est
+immense, ça part dans toutes les directions, ça fait peur : difficile de savoir
+par quel angle approcher cette bête ! image:./smileys/ninja.png[Ninja]
+
+Il faut donc faire appel à un outil pour chercher précisément ce qu'on veut sur
+Internet. Sans surprise, je parle ici des _moteurs de recherches_. Quel moteur
+de recherche utiliser ?
+
+Évidement, lorsqu'on parle de moteur de recherche, le premier qui vient à
+l'esprit est _Google_.
+
+[.center.text-center]
+.On ne le présente plus
+image::./google.jpg[Google]
+
+Il existe toutefois de nombreuses alternatives, qui ont
+leurs avantages et leurs inconvénients.
+
+TIP: J'ai toujours utilisé _Google_ et ça marche super bien pour moi ! Pourquoi
+est-ce que je devrais changer ? image:./smileys/unsure.gif[Douteux]
+
+Si ça vous convient, tant mieux ! Je ne vais pas non plus vous forcer à changer,
+surtout si ça marche pour vous. Il faut néanmoins savoir que vous payez cette
+précision par vos données personnelles. À vous de savoir ce que vous priviligiez
+entre pertinence des résultats et vie privée.
+
+[NOTE]
+--
+J'en profite pour faire un petit aparté sur la vie privée.
+
+Comme vous le savez peut-être, lorsque vous lancez
+une recherche sur _Google_, celui-ci collecte des données sur vous. C'est
+notamment ce qui permet d'améliorer la qualité de ses réponses : en déterminant
+une "bulle" vous correspondant, _Google_ sait qu'il suffit de donner des
+résultats tirés de cette bulle pour vous satisfaire. Néanmoins, ça veut aussi
+dire qu'une fois placé dans une bulle, il est difficile d'en sortir. Ça ne pose
+pas de problème quand on recherche toujours dans le même domaine (voire être
+complètement bénéfique puisque les résultats sont affinés pour convenir), mais
+si jamais on veut voir un point de vue radicalement différent du sien, c'est
+assez compliqué. On peut prouver la présence de la bulle assez facilement : il
+suffit d'effectuer la même recherche avec deux comptes _Google_ différents et de
+regarder les premiers résultats. Si les deux comptes ont effectué des recherches
+assez différentes, alors les résultats de la première page peuvent différer.
+
+C'est pour ça que lorsque je redirige quelqu'un vers Internet, je préfère dire
+"utilise ton moteur de recherche préféré".
+--
+
+Si on met de côté cet aspect, il peut tout de même être intéressant de connaître
+des alternatives parce qu'elles ont leurs particularités. J'en présente ici deux.
+
+++++
+<hr class="separateur_parties">
+++++
+
+[.center.text-center]
+image::./duckduckgo_logo.png[DuckDuckGo, width=200px]
+
+J'ai menti. https://duckduckgo.com[_DuckDuckGo_] n'est pas un moteur de
+recherche, mais un _méta_-moteur de recherche.
+
+TIP: "Méta-" ?
+
+Ici "méta-" désigne une auto-référence, une réflexion. Par exemple un métalivre
+est un livre à propos d'un livre. Ici, _DuckDuckGo_ est un moteur de recherche
+combinant les résultats d'autres moteurs de recherche (_Bing_, _Wolfram Alpha_,
+_Wikipédia_, etc.) pour construire son résultat de recherche. C'est donc un
+moteur de recherche utilisant d'autres moteurs de recherche, donc un
+_méta_-moteur de recherche.
+
+_DuckDuckGo_ affirme respecter la vie privée. C'est difficile à vérifier, donc
+c'est à l'utilisateur de voir s'il leur fait confiance ou non.
+
+Il possède une fonctionnalité assez sympathique : les "bangs". Il suffit
+d'ajouter dans sa recherche un _bang_ pour être redirigé vers le premier
+résultat du site associé au _bang_. Par exemple,
+
+* `!yt` redirige vers _YouTube_
+* `!g` vers _Google_
+* `!w` vers _Wikipédia_.
+
+https://duckduckgo.com/bang[Voici la liste des_bangs_ disponibles]
+
+++++
+<hr class="separateur_parties">
+++++
+
+[.center.text-center]
+image::./ecosia_logo.png[Ecosia]
+
+https://www.ecosia.org[_Écosia_] utilise une partie de l'argent des publicités
+affichées à côté de ses résultats de recherche (provenant de _Bing_) pour
+planter des arbres
+
+
+Il existe de très nombreuses alternatives (https://www.startpage.com[Startpage],
+https://www.qwant.com[Qwant], etc.), mais je ne vais pas m'attarder dessus. C'est
+à vous, apprentis autodidactes de faire preuve d'initiative et de chercher par
+vous-même si ça vous intéresse. image:./smileys/clin.png[Wink]
+
+++++
+<hr>
+++++
+
+== Sur quelles sources s'appuyer ?
+
+Maintenant que vous savez utiliser correctement un moteur de
+recherche ou bien que vous allez apprendre à le faire, la tâche suivante consiste
+à trouver des sources sur lesquelles vous pourrez vous appuyer.
+
+Supposons que je veuille apprendre à taper plus vite au clavier (ça devient de
+plus en plus indispensable à l'heure actuelle !). En bon élève, j'ouvre mon
+moteur de recherche et je tombe sur des résultats sensés. Et puis là, un point
+m'intéresse : il existerait d'autres dispositions de clavier en dehors de
+l'AZERTY et du QWERTY ? Et apparemment elles sont plus ergonomiques ?
+
+Là où j'ai un problème, c'est que mes sources sont contradictoires ! D'une part,
+on me dit que les claviers étaient conçus pour ralentir les opératrices des
+machines à écrire parce que ces dernières se bloquaient mécaniquement lorsqu'on
+écrit trop vite, et de l'autre, on me dit que ceci n'est qu'un mythe et que si
+on regarde les classements sur les tests de vitesse, le QWERTY l'emporte sur le
+DVORAK.
+
+image:./smileys/blink.gif[Blink]
+
+Qu'est-ce que je suis censé faire moi ? Je veux juste apprendre et taper plus
+vite et sans me blesser...
+
+NOTE: Personnellement, j'ai adopté la disposition BÉPO que je trouve bien plus
+confortable.
+
+
+Ici mes sources se contredisent. Malheureusement, ce problème arrive assez
+souvent. De temps en temps, elles ne se contredisent que sur certains détails
+mais dans l'ensemble restent concordantes. Dans le pire des cas, comme ici,
+elles s'opposent frontalement ; il est difficile de savoir qui a raison.
+
+TIP: On ne pourrait pas se référer à une source fiable ?
+
+Dans l'idéal, oui. Mais en pratique, l'affaire n'est pas aussi simple. D'abord,
+il faut trouver cette source fiable. C'est possible dans les domaines où un
+texte de référence existe par exemple, ou alors en milieu académique. Ensuite,
+il faut prendre le temps de la lire, et ça, ça prend du temps, alors qu'on
+pourrait plutôt utiliser ce temps pour tout essayer et voir ce qui marche.
+
+De plus, les sites donnent rarement leurs sources et d'autres ne font que copier
+le contenu d'un autre : comment savoir qui a dit quoi en premier ? Mais les
+ennuis ne s'arrêtent pas là : Les gens mentent aussi sur Internet ! Sachant tout
+ça, à qui peut-on se fier ?
+
+Personnellement, je m'appuie sur l'empathie avec ma source. Si ma source semble
+provenir d'une expérience réelle, alors il y a plus de chance pour que je lui
+accorde ma confiance. C'est pour cette raison que je préfère les forums de sites
+spécialisés par exemple, alors que paradoxalement, c'est aussi typiquement dans
+ce type de plateformes qu'on propage des mensonges.
+
+
+++++
+<hr>
+++++
+
+== Formats des tutoriels
+
+De même qu'on ne mémorise pas tous préférentiellement de la même manière
+(mémoire auditive, visuelle, kinesthésique, etc.), on ne favorise pas tous les
+mêmes supports, comme les tutoriels format texte, format vidéo, etc. Chaque
+format a ses avantages et ses inconvénients et sont plus ou moins adaptés selon
+ce qu'on veut apprendre.
+
+Les tutoriels formats texte ont pour avantage d'être adaptés à toute vitesse de
+lecture. On peut par exemple rapidement survoler le texte pour en tirer les
+grandes lignes, puis lire la partie qui intéresse de façon plus approfondie.
+
+Le format vidéo lui ajoute un flux vidéo et audio. C'est particulièrement
+intéressant lorsqu'on doit suivre pas à pas les instructions et faire attention
+aux détails. Cependant, il est plus difficile de repérer les parties qui nous
+intéressent, comme on le ferait avec un texte.
+
+Personnellement, je préfère le format texte qui me permet d'avancer au rythme
+que je veux. Points bonus s'il est accompagné d'images et/ou d'animations pour
+illustrer.
